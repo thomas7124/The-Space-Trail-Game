@@ -7,6 +7,8 @@
 ## Description
 A web-based re-imagining of the original Oregon Trail game but in space!
 
+## Try it out here: https://thomas7124.github.io/The-Space-Trail-Game/
+
 
 ![TOT Screenshot](/img/screenshot.png)
 
